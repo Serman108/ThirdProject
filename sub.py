@@ -1,5 +1,5 @@
 
 a=40
 b=15
-c=a+b
+c=a*b
 print(c)
